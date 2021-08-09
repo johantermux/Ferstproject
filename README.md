@@ -82,8 +82,8 @@ To use the bomber type the following commands in Termux:
 pkg install git -y 
 pkg install python -y 
 git clone https://github.com/johantermux/Ferstproject.git
-cd TBomb
-./TBomb.sh
+cd Ferstproject
+./Ferstproject.sh
 ```
 
 #### For Termux
@@ -153,7 +153,7 @@ bash Ferstproject.sh
 - [x] Add Mail Spam APIs
 - [x] Add Update Feature using git
 - [x] Add Update Feature without git (download zip and extract)
-- [x] Split code into multiple files (after Deprecation)
+- [x] Split code into multiple files (after Deprecation) you
 
 
 Last Update: 15.05.2021
